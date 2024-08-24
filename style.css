@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    background-color: #d3d1d1;
+}
+.profile {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+ img {
+    width: 100%;
+    border-radius: 8px;
+}
+.skill-bar {
+    background-color: #ddd;
+    border-radius: 5px;
+    height: 10px;
+}
+.skill-level {
+    background-color: #4caf50;
+    height: 10px;
+    border-radius: 5px;
+}
+.content {
+    width: 65%;
+    display: inline-block; 
+    padding-left: 20px;
+}
+.work-experience {
+    background-color:white;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.education {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.job {
+    margin-bottom: 20px;
+}
+.edu-item {
+    margin-bottom: 20px;
+}
+
